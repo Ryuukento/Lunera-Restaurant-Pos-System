@@ -1,0 +1,7 @@
+Hi this is Hotel Lunera Restaurant POS System
+
+Develop by Ryan Mondido
+
+admin Password = "Ryan Mondido"
+
+cashier Password = "Mariah Galising"
